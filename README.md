@@ -17,7 +17,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Link
 
-- Live Site URL: [Add live site URL here](https://social-links-profile-drab-ten.vercel.app/)
+- Live Site URL: https://social-links-profile-drab-ten.vercel.app/
 
 ### Built with
 
